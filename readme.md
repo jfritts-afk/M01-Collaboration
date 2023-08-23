@@ -26,7 +26,4 @@ Example
 
 An example of how to use this script is provided within the if __name__ == "__main__": block. It demonstrates the sequential execution of introductory messages, text animations, and the timeout feature.
 
-Feel free to modify and integrate this script into your projects to add interactive console-based animations and user input timeouts.
-Author
-
 [Joshua Fritts]
